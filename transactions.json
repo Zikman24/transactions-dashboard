@@ -1,0 +1,32 @@
+[
+    {
+        "nom": "L'Air Liquide",
+        "date": "2022-01-16",
+        "prix": 154.8,
+        "quantite": 1
+    },
+    {
+        "nom": "Amundi ETF PEA MSCI Emerg Mkts",
+        "date": "2022-01-16",
+        "prix": 23.9,
+        "quantite": 12
+    },
+    {
+        "nom": "Amundi MSCI World UCITS ETF",
+        "date": "2022-01-17",
+        "prix": 422.76,
+        "quantite": 3
+    },
+    {
+        "nom": "Lyxor PEA Eau UCITS ETF",
+        "date": "2022-01-31",
+        "prix": 25.25,
+        "quantite": 5
+    },
+    {
+        "nom": "BNP Paribas Easy Stoxx Europe 600",
+        "date": "2022-01-31",
+        "prix": 12.67,
+        "quantite": 10
+    }
+]
